@@ -1,0 +1,2 @@
+# DigitalImageAuthenticityVerificationSystem
+研电赛省奖作品-数字图像真实性鉴定系统
